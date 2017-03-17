@@ -18,6 +18,8 @@ React Native Starter Kit is a part of [Pepperoni](http://getpepperoni.com), a fr
 
 Sounds good and you just want to see how it works? Here is a quick start guide:
 
+Make sure you have [Yarn installed](https://yarnpkg.com/en/docs/install)!
+
 ```
 git clone https://github.com/futurice/pepperoni-app-kit.git
 cd pepperoni-app-kit
