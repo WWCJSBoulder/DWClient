@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.dwclient;
 
 import android.app.Application;
 
