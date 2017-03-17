@@ -2,10 +2,8 @@
 Futurice React Native Starter Kit
 ===
 
-[![Join the chat at https://gitter.im/futurice/pepperoni-app-kit](https://badges.gitter.im/futurice/pepperoni-app-kit.svg)](https://gitter.im/futurice/pepperoni-app-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/futurice/pepperoni-app-kit.svg?branch=master)](https://travis-ci.org/futurice/pepperoni-app-kit)
+[![Build Status](https://travis-ci.org/WWCJSBoulder/DWClient.svg?branch=master)](https://travis-ci.org/WWCJSBoulder/DWClient)
 [![React Native](https://img.shields.io/badge/react%20native-0.42.0-brightgreen.svg)](https://github.com/facebook/react-native)
-[![Sponsored](https://img.shields.io/badge/chilicorn-sponsored-brightgreen.svg)](http://spiceprogram.org/oss-sponsorship/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/futurice/pepperoni-app-kit/blob/master/LICENSE)
 
 We :green_heart: building apps with React Native, because it helps us create high quality products for both major mobile platforms quickly and cost-effectively.
